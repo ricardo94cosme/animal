@@ -9,3 +9,4 @@ echo "<br>";
 echo $perrito->gettamaño();
 echo "<br>";
 echo $perrito->getanimal();
+                   echo muerte;
